@@ -5,7 +5,13 @@ no redirect use for admin login bypass.
 inurl:/admin/login.php
 
 
+# Tool install for termux:
 
+pkg install git php -y
+
+git clone https://github.com/BD8KR3M/nordct
+
+Ok enjoy 🤗🤗
 
 <p align="center"><img src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
   </p>
